@@ -1,16 +1,22 @@
-# React + Vite
+# React Router Tutorial Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is based on the official **React Router Docs tutorial**.  
+It was created by the React Router team to help developers explore and use some of the amazing features of React Router in real-world projects.
 
-Currently, two official plugins are available:
+Through this tutorial, I learned many important concepts and techniques that make routing in React applications powerful and efficient.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Version: React Router **v6.30**
+- Source: Official React Router documentation
 
-## React Compiler
+## What I Learned
+- How to set up routes and nested routes  
+- Using loaders and actions for data fetching and mutations  
+- Handling navigation and URL parameters  
+- Building a structured project with React Router’s modern APIs  
+- Optimistic Routing  
+- Exploring some of the lesser-known features of React Router  
+- Understanding a lot of the under-the-hood processes that make it work  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This repository serves as my learning journey and a reference for future projects using React Router.
